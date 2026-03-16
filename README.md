@@ -7,7 +7,6 @@
 
 ![she/her](https://img.shields.io/badge/she%2Fher-FFE4EF?style=flat-square&labelColor=FFE4EF&color=FFE4EF&logoColor=993556)&nbsp;
 ![CS Engineering](https://img.shields.io/badge/CS%20Engineering-EEEDFE?style=flat-square&color=EEEDFE&logoColor=534AB7)&nbsp;
-![PESU](https://img.shields.io/badge/XYZ%20College-E1F5EE?style=flat-square&color=E1F5EE&logoColor=0F6E56)&nbsp;
 ![Open to Opportunities](https://img.shields.io/badge/open%20to%20opportunities-E6F1FB?style=flat-square&color=E6F1FB&logoColor=185FA5)
 
 </div>
@@ -18,17 +17,18 @@
 
 > *A **CS undergrad** who is always curious about anything and everything*
 >*I love tech and always up for learning and implementing new skills*
+> *My interest varies from solving competitive programming questions to training machine models*
 
 ---
 
 ## tech stack
 
 ```yaml
-languages:  [ Python, JavaScript, C++ ]
+languages:  [ Python, JavaScript, C++,SQL ]
 frontend:   [ React, Tailwind CSS, HTML/CSS ]
 backend:    [ Node.js, Express, REST APIs ]
 databases:  [ MYSQL, MongoDB ]
-tools:      [ Git, Docker, Linux, VS Code ]
+tools:      [ Git, Docker, Linux, VS Code, Spreadsheets, Tableau, Dashboard ]
 libraries:  [Numpy,Pandas,Matplotlib]
 ```
 
@@ -52,7 +52,7 @@ libraries:  [Numpy,Pandas,Matplotlib]
 
 ## connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E6F1FB?style=for-the-badge&logo=linkedin&logoColor=185FA5)](www.linkedin.com/in/sneha-panini-a33a53328)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E6F1FB?style=for-the-badge&logo=linkedin&logoColor=185FA5)](https://www.linkedin.com/in/sneha-panini-a33a53328)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-FFE4EF?style=for-the-badge&logo=gmail&logoColor=993556)](mailto:snehapanini100@gmail.com)
 
