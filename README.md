@@ -54,7 +54,7 @@ libraries:  [Numpy,Pandas,Matplotlib]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E6F1FB?style=for-the-badge&logo=linkedin&logoColor=185FA5)](https://www.linkedin.com/in/sneha-panini-a33a53328)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-FFE4EF?style=for-the-badge&logo=gmail&logoColor=993556)](mailto:snehapanini100@gmail.com)
+>*Email: "snehapanini100@gmail.com"*
 
 ---
 
