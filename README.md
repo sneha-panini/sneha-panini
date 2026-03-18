@@ -23,7 +23,7 @@
 
 ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=flat-square&logo=tailwind-css&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-e34c26?style=flat-square&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML%2FCSS-e34c26?style=flat-square&logo=html5&logoColor=white)
 
 ---
 
@@ -37,8 +37,8 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sneha--panini-79c0ff?style=flat-square&logo=linkedin)](https://linkedin.com/in/sneha-panini)
-[![Email](https://img.shields.io/badge/Email-sneha%40email.com-f778ba?style=flat-square&logo=gmail)](mailto:sneha@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sneha--panini-79c0ff?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sneha-panini-a33a53328i)
+[![Email](https://img.shields.io/badge/Email-sneha%40email.com-f778ba?style=flat-square&logo=gmail)](mailto:snehapanini100@email.com)
 
 ---
 
