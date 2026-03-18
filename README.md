@@ -1,66 +1,70 @@
-<!-- BANNER -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=FDF0F5&height=160&section=header&text=Sneha+Panini&fontSize=46&fontColor=2A1530&fontAlignY=48&desc=Computer+Science+Engineering+%C2%B7+PES+UNIVERSITY&descAlignY=70&descSize=14&descColor=7A5060&animation=fadeIn"/>
-</div>
-
-<div align="center">
-
-![she/her](https://img.shields.io/badge/she%2Fher-FFE4EF?style=flat-square&labelColor=FFE4EF&color=FFE4EF&logoColor=993556)&nbsp;
-![CS Engineering](https://img.shields.io/badge/CS%20Engineering-EEEDFE?style=flat-square&color=EEEDFE&logoColor=534AB7)&nbsp;
-![Open to Opportunities](https://img.shields.io/badge/open%20to%20opportunities-E6F1FB?style=flat-square&color=E6F1FB&logoColor=185FA5)
-
-</div>
-
----
-
-## KNOW ME:
-
-> *A **CS undergrad** who is always curious about anything and everything*
->*I love tech and always up for learning and implementing new skills*
-> *My interest varies from solving competitive programming questions to training machine models*
-
----
-
-## tech stack
-
-```yaml
-languages:  [ Python, JavaScript, C++,SQL ]
-frontend:   [ React, Tailwind CSS, HTML/CSS ]
-backend:    [ Node.js, Express, REST APIs ]
-databases:  [ MYSQL, MongoDB ]
-tools:      [ Git, Docker, Linux, VS Code, Spreadsheets, Tableau, Dashboard ]
-libraries:  [Numpy,Pandas,Matplotlib]
+```bash
+visitor@github:~$ whoami
 ```
 
-<div align="center">
+# Sneha Panini
 
-![Python](https://img.shields.io/badge/Python-FFE4EF?style=flat-square&logo=python&logoColor=993556)
-![C++](https://img.shields.io/badge/C++-EEEDFE?style=flat-square&logo=cplusplus&logoColor=534AB7)
-![JavaScript](https://img.shields.io/badge/JavaScript-EEEDFE?style=flat-square&logo=javascript&logoColor=534AB7)
-![React](https://img.shields.io/badge/React-E6F1FB?style=flat-square&logo=react&logoColor=185FA5)
-![Node.js](https://img.shields.io/badge/Node.js-E1F5EE?style=flat-square&logo=node.js&logoColor=0F6E56)
-![Tailwind](https://img.shields.io/badge/Tailwind-E6F1FB?style=flat-square&logo=tailwindcss&logoColor=185FA5)
-![MySQL](https://img.shields.io/badge/MySQL-EEEDFE?style=flat-square&logo=mysql&logoColor=534AB7)
-![NumPy](https://img.shields.io/badge/NumPy-EEEDFE?style=flat-square&logo=numpy&logoColor=534AB7)
-![Pandas](https://img.shields.io/badge/Pandas-EEEDFE?style=flat-square&logo=pandas&logoColor=534AB7)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-EEEDFE?style=flat-square&logo=matplotlib&logoColor=534AB7)
-![Git](https://img.shields.io/badge/Git-FFE4EF?style=flat-square&logo=git&logoColor=993556)
-
-</div>
+![CS Undergrad](https://img.shields.io/badge/CS%20Undergrad-PES%20University%20·%20PESU-79c0ff?style=flat-square&labelColor=0d2339)
+![Status](https://img.shields.io/badge/●%20open%20to%20opportunities-e3b341?style=flat-square&labelColor=1a1200)
 
 ---
 
-## connect
+```bash
+sneha@pesu:~$ cat languages.json   # core stack
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E6F1FB?style=for-the-badge&logo=linkedin&logoColor=185FA5)](https://www.linkedin.com/in/sneha-panini-a33a53328)
-&nbsp;
->*Email: "snehapanini100@gmail.com"*
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+```bash
+sneha@pesu:~$ pip list   # favourite libs
+```
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+
+---
+
+```bash
+sneha@pesu:~$ npm list   # frontend stack
+```
+
+![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=flat-square&logo=tailwind-css&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-e34c26?style=flat-square&logo=html5&logoColor=white)
+
+---
+
+```bash
+sneha@pesu:~$ which --all-tools
+```
+
+![Git](https://img.shields.io/badge/Git-f05033?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-e97627?style=flat-square&logo=tableau&logoColor=white)
+![Spreadsheets](https://img.shields.io/badge/Spreadsheets-1d6f42?style=flat-square&logo=google-sheets&logoColor=white)
+![Dashboards](https://img.shields.io/badge/Dashboards-8b949e?style=flat-square&logo=grafana&logoColor=white)
+
+---
+
+```bash
+sneha@pesu:~$ ping --reach-me
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sneha--panini-79c0ff?style=flat-square&logo=linkedin)](https://linkedin.com/in/sneha-panini)
+[![Email](https://img.shields.io/badge/Email-sneha%40email.com-f778ba?style=flat-square&logo=gmail)](mailto:sneha@email.com)
 
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=FDF0F5&height=80&section=footer&reversal=true"/>
-
-  *thanks for stopping by — Let's connect and build together !*
+  <img src="https://github-readme-stats.vercel.app/api?username=sneha-panini&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=56d364&text_color=c9d1d9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sneha-panini&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=e3b341&currStreakLabel=79c0ff" />
 </div>
 
