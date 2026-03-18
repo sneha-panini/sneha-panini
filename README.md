@@ -28,7 +28,6 @@
 ---
 
 ![Git](https://img.shields.io/badge/Git-f05033?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-e97627?style=flat-square&logo=tableau&logoColor=white)
