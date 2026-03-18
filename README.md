@@ -1,6 +1,3 @@
-```bash
-visitor@github:~$ whoami
-```
 
 # Sneha Panini
 
@@ -9,10 +6,6 @@ visitor@github:~$ whoami
 
 ---
 
-```bash
-sneha@pesu:~$ cat languages.json   # core stack
-```
-
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -20,9 +13,6 @@ sneha@pesu:~$ cat languages.json   # core stack
 
 ---
 
-```bash
-sneha@pesu:~$ pip list   # favourite libs
-```
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -30,19 +20,12 @@ sneha@pesu:~$ pip list   # favourite libs
 
 ---
 
-```bash
-sneha@pesu:~$ npm list   # frontend stack
-```
 
 ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=flat-square&logo=tailwind-css&logoColor=black)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-e34c26?style=flat-square&logo=html5&logoColor=white)
 
 ---
-
-```bash
-sneha@pesu:~$ which --all-tools
-```
 
 ![Git](https://img.shields.io/badge/Git-f05033?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
@@ -53,10 +36,6 @@ sneha@pesu:~$ which --all-tools
 ![Dashboards](https://img.shields.io/badge/Dashboards-8b949e?style=flat-square&logo=grafana&logoColor=white)
 
 ---
-
-```bash
-sneha@pesu:~$ ping --reach-me
-```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sneha--panini-79c0ff?style=flat-square&logo=linkedin)](https://linkedin.com/in/sneha-panini)
 [![Email](https://img.shields.io/badge/Email-sneha%40email.com-f778ba?style=flat-square&logo=gmail)](mailto:sneha@email.com)
